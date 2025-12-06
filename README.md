@@ -18,25 +18,6 @@ This project helped me learn:
 
 The project includes realistic sample CSV files for customers, products, inventory levels, and orders.
 
----
-
-## 📂 Project Structure
-
-order-inventory-system/
-│── schema/
-│ └── schema.sql # Table creation script
-│
-│── sql/
-│ └── queries.sql # JOINs, GROUP BY, analytics queries
-│
-│── sample-data/
-│ ├── products.csv
-│ ├── customers.csv
-│ ├── inventory.csv
-│ └── orders.csv
-│
-└── README.md
-
 
 ---
 
